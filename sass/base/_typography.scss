@@ -1,0 +1,34 @@
+@import "../abstracts/variables";
+
+
+
+body {
+    font-family:  Helvetica, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.7;
+    color: $color-2;
+   
+}  
+
+
+.heading {
+   text-align: center;
+    @include center_horizontal;
+    height: 20rem;
+
+
+    &__primary {
+    text-transform: uppercase;
+    color:$color-2;
+
+}
+
+    &__secondary {
+    text-transform: uppercase;
+    color:$color-2;
+}
+
+
+}
+
+

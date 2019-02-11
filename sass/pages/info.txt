@@ -1,0 +1,2 @@
+This folder is for particular styles which are applied certanly to exact 
+page of website.

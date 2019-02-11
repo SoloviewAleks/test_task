@@ -1,0 +1,60 @@
+.u-small {
+    width: 15rem !important; 
+    height: 6rem !important;
+    padding: 1.9rem !important;
+    font-size: 1.3rem !important;
+    letter-spacing: 0.2rem !important;
+    font-weight: bold !important;
+
+}
+.u-normal {
+    width: 20rem !important; 
+    height: 7rem !important;
+    padding: 2rem !important;
+    font-size: $default-font-size !important;
+    letter-spacing: 0.3rem !important;
+    font-weight: bold !important;
+
+}
+.u-medium {
+    width: 25rem !important; 
+    height: 8rem !important;
+    padding: 2.5rem !important;
+    font-size: 1.8rem !important;
+    letter-spacing: 0.4rem !important;
+    font-weight: bold !important;
+
+}
+.u-large {
+    width: 30rem !important; 
+    height: 9rem !important;
+    padding: 2.7rem !important;
+    font-size: 2rem !important;
+    letter-spacing: 0.5rem !important;
+    font-weight: bold !important;
+
+}
+
+.u-left {
+   width: 47%;
+}
+
+.u-right {
+    width: 47%; 
+  }
+
+  .d-flex {
+      display: flex;
+  }
+
+  .row {
+      flex-flow: row wrap;
+  }
+
+  .column {
+    flex-flow: column wrap;
+}
+
+.jcsb {
+    justify-content: space-between;
+}
